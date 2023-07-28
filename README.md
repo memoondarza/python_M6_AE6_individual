@@ -4,7 +4,7 @@ Tarea python_M6_AE5_individual
 Es importante destacar que la aplicación tiene una aplicación previa, de tareas anteriores, por lo que tiene un trabajo inicial de Usuario.
 Para no confundir con los "users", los llamé Clientes. Entonces, la aplicación tiene un registro de clientes y sus listado y el trabajo con "users", con login y registro.
 
-Solo los usuarios users registrados pueden ver el resto de la página web, que solamente un registro y listado de clientes.
+Solo los usuarios users registrados pueden ver el resto de la página web, que solamente es un registro y listado de clientes.
 
 Se generaron los siguientes grupos:
 
